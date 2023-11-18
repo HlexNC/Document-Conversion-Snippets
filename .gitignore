@@ -178,3 +178,4 @@ dist
 
 # Ignore PyCharm files
 .idea/
+*.pyc
